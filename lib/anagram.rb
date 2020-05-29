@@ -7,6 +7,6 @@ class Anagram
   end
   
   def match(arrary)
-    array.detect{
+    array.detect{|word| word.split
   end
 end
