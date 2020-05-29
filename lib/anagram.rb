@@ -1,8 +1,8 @@
 class Anagram
   
-  attr_accessor :match
+  attr_accessor :name
   
-  def initialized(match)
-    matches.detect {|match|
+  def initialized(word)
+    
   end
 end
