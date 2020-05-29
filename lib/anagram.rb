@@ -2,7 +2,7 @@ class Anagram
   
   attr_accessor :match
   
-  def initialized
+  def initialized(match)
     
   end
 end
